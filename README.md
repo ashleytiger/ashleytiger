@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashleytiger
 - 👀 I’m interested in Ham Radio
 - 🌱 I’m currently learning anything I can about coding
-- 💞️ I’m looking to collaborate nothig specific at the moment, just want to have a look ay Github
+- 💞️ I’m looking to collaborate nothing specific at the moment, just want to have a look ay Github
 - 📫 How to reach me at ashleytiger@sky.com
 
 <!---
